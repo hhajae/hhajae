@@ -1,9 +1,9 @@
 <div class="header-image">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome to  Yuseung's Github:blush:&fontAlignY=40&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hajae's Github:blush:&fontAlignY=40&fontSize=45&fontColor=ffffff" />
 </div>
 
 <h3>:wave: Hi there!</h3>
-I am a beginner developer who is growing with the goal of becoming a fintech developer.
+I am a beginner developer.
 
 <h3>:books:Tech Stack</h3>
 
@@ -24,10 +24,8 @@ I am a beginner developer who is growing with the goal of becoming a fintech dev
 </p>
 
 <h3>:mortar_board:Education</h3>
-✔ Yeungnam Univ, Bachelor's degree in Computer Science [2018.03.02 ~ 2024.02.22] <br>
-✔ Yeungnam Univ, Bachelor's degree in Business Administration [2018.03.02 ~ 2024.02.22] <br>
+✔ Yeungnam Univ, Bachelor's degree in Information & Communication Engineering [2016.03.02 ~ 2022.02.22] <br>
 ✔ Samsung SW Academy For Youth 11th (SSAFY) [2024.01.02 ~ ing]
-
 <hr>
 
 <table>
