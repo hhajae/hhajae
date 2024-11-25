@@ -1,14 +1,5 @@
 <div class="header-image">
- <img src="https://capsule-render.vercel.app/api?
- type=waving&
- color=gradient
- height=180&
- section=header&
- text=capsule%20render&
- animation=fadein&
- fontAlginY=36&
- fontSize=32&
- fontColor=ffffff" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hhajae's&animation=fadeIn&fontAlginY=36&fontSize=32&fontColor=ffffff" />
 </div>
 
 <h3>:wave: Hi there!</h3>
