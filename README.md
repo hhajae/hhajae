@@ -2,30 +2,30 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hhajae's&animation=fadeIn&fontAlginY=36&fontSize=32&fontColor=ffffff" />
 </div>
 
-<h3>:wave: Hi there!</h3>
-I am a beginner developer.
+<h3>:wave: 안녕하세요!</h3>
+백엔드 개발자 하재훈입니다.
 
-<h3>:books:Tech Stack</h3>
+<h3>:books:기술 스택</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp -->
   <br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+<!--    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
   <br>
-<!--   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp  -->
+   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp -->
 </p>
 
-<h3>:mortar_board:Education</h3>
-✔ Yeungnam Univ, Bachelor's degree in Information & Communication Engineering [2016.03.02 ~ 2022.02.22] <br>
-✔ Samsung SW Academy For Youth 11th (SSAFY) [2024.01.02 ~ ing]
+<h3>:mortar_board:학력 / 교육</h3>
+✔ 삼성청년SW아카데미 11기 (SSAFY) [2024.01.02 ~ ing] <br>
+✔ 영남대학교 정보통신공학과 학사 졸업 [2016.03.02 ~ 2022.02.22] <br>
 <hr>
 
 <table>
